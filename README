@@ -1,0 +1,23 @@
+
+This is a repository full of things that I'm using to learn
+c++. So far there's just a simple HelloWorld and a dice 
+rolling game. 
+
+How to compile and run. Since these are still very simple, g++ must
+be used instead of gcc.
+
+gcc -o <filename.cc>
+./a.out
+
+
+helloworld:
+    Prints "Hello World"
+
+cpr:
+    Asks how to spell CPR and waits for input. Used it to 
+    learn how to take inputs, compare strings, and use if
+    statements and while loops.
+
+dice:
+    Rolls rolls dice. Not much else so far.
+
