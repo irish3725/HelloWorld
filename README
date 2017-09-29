@@ -19,5 +19,6 @@ cpr:
     statements and while loops.
 
 dice:
-    Rolls rolls dice. Not much else so far.
+    Game where you roll dice and computer opponent rolls
+    dice and whoever rolls the highest wins. 
 
