@@ -6,7 +6,7 @@ rolling game.
 How to compile and run. Since these are still very simple, g++ must
 be used instead of gcc.
 
-gcc -o <filename.cc>
+g++ <filename.cc>
 ./a.out
 
 

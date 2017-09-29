@@ -1,10 +1,11 @@
 
+#include <cstdlib>
 #include <string>
 #include <iostream>
 using namespace std;
 
-void rollDice(){
-        
+void rollDice(){    
+    cout << (rand() % 6 + 1) << "\n"; 
 }
 
 int main() {
